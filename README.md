@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning ReactJs.
 - 💞️ I’m looking to collaborate on Web-development.
 - 📫 How to reach me sevanthih18@gmail.com.
-- ⚡ Fun fact: Identical Twins Don't have the same Finger prints.
